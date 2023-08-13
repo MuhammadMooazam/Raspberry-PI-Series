@@ -1,1 +1,3 @@
-# Raspberry-PI-Series
+# Raspberry PI
+
+This repository is for teaching purposes.
