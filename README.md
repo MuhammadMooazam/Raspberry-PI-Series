@@ -1,3 +1,3 @@
 # Raspberry PI
 
-This repository is for teaching purposes.
+This repository is for learning Raspberry PI.
