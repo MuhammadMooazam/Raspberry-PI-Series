@@ -52,7 +52,7 @@ Got questions? Need help? Simply want to chat about Raspberry PI and MicroPython
 
 ### License 📝
 
-This repository is licensed under the MIT License. Feel free to use the code and resources for your projects, learning, and exploration.
+This repository is licensed under the MIT [LICENSE](LICENSE). Feel free to use the code and resources for your projects, learning, and exploration.
 
 ---
 
