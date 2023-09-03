@@ -28,7 +28,7 @@ Ready to kickstart your Raspberry Pi adventure? Follow these simple steps:
    git clone https://github.com/MuhammadMooazam/Raspberry-PI-Series.git
 ```
 
-2. **Explore the Tutorials**: Head over to the `Tutorials` folder and dive into our step-by-step guides. Make sure to read the README.md files for each tutorial; they are packed with detailed instructions.
+2. **Explore the Code**: Venture into the heart of our Raspberry Pi projects. These code files are where the magic happens. Dive in and uncover the secrets of making your Raspberry Pi do incredible things.
 
 3. **Experiment and Build**: Roll up your sleeves and get hands-on with the code examples and projects. Don't hesitate to modify and experiment to deepen your understanding.
 
